@@ -1,0 +1,80 @@
+The map has 5000 cities
+The map has 25000 roads
+Position of first friend is: Buckridgeburgh
+Position of second friend is: Lindamouth
+Current node: Buckridgeburgh
+Current node: Port Maeganbury
+Current node: North Princessville
+Current node: Dooleyburgh
+Current node: Mosebury
+Current node: Hyattfurt
+Current node: Rosarioside
+Current node: Port Luzburgh
+Current node: Port Desiree
+Current node: Earlineshire
+Current node: Franciscoland
+Current node: Port Sophiechester
+Current node: Osinskiport
+Current node: Croninville
+Current node: South Rutheburgh
+Current node: South Bridgettemouth
+Current node: Wittingfort
+Current node: Lake Nedra
+Current node: West Eugeniatown
+Current node: Hesselview
+Current node: Sauerburgh
+Current node: New Willardside
+Current node: Pagacstad
+Current node: Lukashaven
+Current node: Roobshire
+Current node: Port Christop
+Current node: Hettingershire
+Current node: Lake Joany
+Current node: Forrestmouth
+Current node: North Daijastad
+Current node: Moorefurt
+Current node: North Georgiana
+Current node: Alexandrashire
+Current node: East Kenneth
+Current node: South Destineyhaven
+Current node: Frankbury
+Current node: Paigeton
+Current node: East Alexandro
+Current node: Kenside
+Current node: Fredtown
+Current node: Jasonside
+Current node: Lake Dan
+Current node: Heatherchester
+Current node: Port Margot
+Current node: Kemmerville
+Current node: Lake Lilianberg
+Current node: Kleinland
+Current node: Kovacekmouth
+Current node: North Clovischester
+Current node: Derrickfurt
+Current node: New Anastasiastad
+Current node: New Elsaberg
+Current node: New Vidalstad
+Current node: Bechtelarport
+Current node: North Demond
+Current node: Dickensland
+Current node: Hegmannmouth
+Current node: Mafaldaberg
+Current node: Elmobury
+Current node: Kendraport
+Current node: Botsfordfort
+Current node: East Myrticefort
+Current node: Walshmouth
+Current node: New Jaylan
+Current node: South Juanita
+Current node: Ondrickafort
+Current node: Georgetteberg
+Current node: West Eugeniachester
+Current node: Antwonfurt
+Current node: Tanyaberg
+Current node: Lindamouth
+Number of steps: 71
+Path is: [Lindamouth, Alexandrashire, Lake Nedra, Earlineshire, Port Luzburgh, Mosebury, North Princessville, Port Maeganbury, Buckridgeburgh]
+The friends meet in Port Luzburgh after 542
+Time taken by A* function is: 2 ms
+Time taken by whole program is: 2057 ms

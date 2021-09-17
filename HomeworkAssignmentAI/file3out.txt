@@ -1,0 +1,15 @@
+The map has 1000 cities
+The map has 5000 roads
+Position of first friend is: Port Melissaview
+Position of second friend is: West Hilarioshire
+Current node: Port Melissaview
+Current node: Jamaalborough
+Current node: New Fanny
+Current node: Lorenbury
+Current node: Bayerbury
+Current node: West Hilarioshire
+Number of steps: 6
+Path is: [West Hilarioshire, Lorenbury, New Fanny, Jamaalborough, Port Melissaview]
+The friends meet in New Fanny after 242
+Time taken by A* function is: 0 ms
+Time taken by whole program is: 89 ms

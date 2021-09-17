@@ -1,0 +1,15 @@
+The map has 2000 cities
+The map has 10000 roads
+Position of first friend is: Lottieshire
+Position of second friend is: East Jayda
+Current node: Lottieshire
+Current node: Murielfort
+Current node: East Dustinmouth
+Current node: Maryport
+Current node: Elodyville
+Current node: East Jayda
+Number of steps: 6
+Path is: [East Jayda, Maryport, East Dustinmouth, Murielfort, Lottieshire]
+The friends meet in East Dustinmouth after 314
+Time taken by A* function is: 0 ms
+Time taken by whole program is: 435 ms

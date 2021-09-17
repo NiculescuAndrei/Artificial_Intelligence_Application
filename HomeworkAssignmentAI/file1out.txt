@@ -1,0 +1,14 @@
+The map has 500 cities
+The map has 2500 roads
+Position of first friend is: Port Dariusview
+Position of second friend is: Herzogville
+Current node: Port Dariusview
+Current node: West Kylie
+Current node: Aprilmouth
+Current node: Lavonneberg
+Current node: Herzogville
+Number of steps: 5
+Path is: [Herzogville, Lavonneberg, Aprilmouth, West Kylie, Port Dariusview]
+The friends meet in Aprilmouth after 228
+Time taken by A* function is: 2 ms
+Time taken by whole program is: 480 ms

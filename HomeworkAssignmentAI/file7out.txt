@@ -1,0 +1,46 @@
+The map has 3000 cities
+The map has 15000 roads
+Position of first friend is: Lake Ardellamouth
+Position of second friend is: Port Jenifer
+Current node: Lake Ardellamouth
+Current node: North Leonefort
+Current node: North Kaylah
+Current node: Lake Otiliaside
+Current node: West Elliotshire
+Current node: Sarinafurt
+Current node: Pascalebury
+Current node: East Keith
+Current node: Lake Theresamouth
+Current node: North Jermeybury
+Current node: Port Godfreyshire
+Current node: Port Theo
+Current node: South Gustave
+Current node: Port Malinda
+Current node: Schambergerville
+Current node: Grahamshire
+Current node: East Earnestineside
+Current node: Lake Jackburgh
+Current node: Marisatown
+Current node: Chesterburgh
+Current node: Schusterland
+Current node: North Raina
+Current node: Rosannafort
+Current node: Gustside
+Current node: North Maidaland
+Current node: Lake Mayraport
+Current node: South Bobby
+Current node: Hilmachester
+Current node: Ratkefurt
+Current node: New Abraham
+Current node: East Aric
+Current node: South Tristin
+Current node: North Verona
+Current node: East Genovevabury
+Current node: New Kiana
+Current node: West Jaqueline
+Current node: Port Jenifer
+Number of steps: 37
+Path is: [Port Jenifer, Port Theo, East Keith, Lake Otiliaside, North Leonefort, Lake Ardellamouth]
+The friends meet in East Keith after 544
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 554 ms

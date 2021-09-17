@@ -1,0 +1,18 @@
+The map has 2500 cities
+The map has 12500 roads
+Position of first friend is: South Brandyfurt
+Position of second friend is: Mariaton
+Current node: South Brandyfurt
+Current node: Rohanchester
+Current node: Port Cynthia
+Current node: East Charley
+Current node: Alexandroburgh
+Current node: Blazeside
+Current node: Wintheiserfurt
+Current node: Justicemouth
+Current node: Mariaton
+Number of steps: 9
+Path is: [Mariaton, Wintheiserfurt, Alexandroburgh, East Charley, Rohanchester, South Brandyfurt]
+The friends meet in Alexandroburgh after 402
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 490 ms

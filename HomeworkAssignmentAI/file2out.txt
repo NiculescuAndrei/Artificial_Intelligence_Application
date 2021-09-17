@@ -1,0 +1,13 @@
+The map has 750 cities
+The map has 4000 roads
+Position of first friend is: Lake Leola
+Position of second friend is: Port Dustin
+Current node: Lake Leola
+Current node: Russelmouth
+Current node: West Elissastad
+Current node: Port Dustin
+Number of steps: 4
+Path is: [Port Dustin, West Elissastad, Russelmouth, Lake Leola]
+The friends meet in West Elissastad after 279
+Time taken by A* function is: 0 ms
+Time taken by whole program is: 189 ms

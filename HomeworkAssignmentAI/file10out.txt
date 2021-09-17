@@ -1,0 +1,69 @@
+The map has 10000 cities
+The map has 30000 roads
+Position of first friend is: Satterfieldshire
+Position of second friend is: East Dagmar
+Current node: Satterfieldshire
+Current node: Parisberg
+Current node: Port Tadmouth
+Current node: Luciochester
+Current node: Croninfort
+Current node: Cruzstad
+Current node: West Santosview
+Current node: Swaniawskiland
+Current node: Minervamouth
+Current node: Gislasonfurt
+Current node: West Chelsieburgh
+Current node: Lakinton
+Current node: Abbeyshire
+Current node: East Lenore
+Current node: Port Ahmedton
+Current node: North Genevievemouth
+Current node: West Generalbury
+Current node: Labadiemouth
+Current node: Clementinebury
+Current node: Eleonoreside
+Current node: Wunschland
+Current node: Enochport
+Current node: West Destiny
+Current node: Port Daphneymouth
+Current node: Stewarthaven
+Current node: Nashfort
+Current node: South Luzhaven
+Current node: Lake Shanonchester
+Current node: Ralphhaven
+Current node: Port Kelvinshire
+Current node: East Nadiaside
+Current node: Sandraborough
+Current node: Wisozkstad
+Current node: Anissamouth
+Current node: Bauchland
+Current node: McDermotttown
+Current node: Kiannafurt
+Current node: Kaleborough
+Current node: East Rafaela
+Current node: East Tessstad
+Current node: North Kaitlyn
+Current node: New Kian
+Current node: Daynefurt
+Current node: Bashirianview
+Current node: Port Isac
+Current node: Port Eleonoreview
+Current node: Gusikowskiburgh
+Current node: New Brandi
+Current node: West Eddietown
+Current node: East Fabiolashire
+Current node: East Olen
+Current node: West Claudinemouth
+Current node: West Priscilla
+Current node: Lake Katheryn
+Current node: Abelberg
+Current node: Efrentown
+Current node: North Jayme
+Current node: Wyatttown
+Current node: South Federicomouth
+Current node: East Dagmar
+Number of steps: 60
+Path is: [East Dagmar, Kiannafurt, Ralphhaven, Port Ahmedton, Swaniawskiland, Port Tadmouth, Satterfieldshire]
+The friends meet in Port Ahmedton after 763
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 4553 ms

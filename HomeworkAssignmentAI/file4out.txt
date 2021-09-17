@@ -1,0 +1,25 @@
+The map has 1500 cities
+The map has 7500 roads
+Position of first friend is: North Rozella
+Position of second friend is: Kesslerstad
+Current node: North Rozella
+Current node: Raphaelmouth
+Current node: Ziemeton
+Current node: Ileneville
+Current node: Parkerborough
+Current node: Melvinamouth
+Current node: Veumhaven
+Current node: Jewellbury
+Current node: Hertaberg
+Current node: Lake Lane
+Current node: Fidelland
+Current node: Port Aurore
+Current node: New Arnaldo
+Current node: North Eleazar
+Current node: Tremblaystad
+Current node: Kesslerstad
+Number of steps: 16
+Path is: [Kesslerstad, Port Aurore, Hertaberg, Melvinamouth, Ileneville, Ziemeton, Raphaelmouth, North Rozella]
+The friends meet in Melvinamouth after 430
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 219 ms

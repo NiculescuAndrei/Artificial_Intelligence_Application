@@ -1,0 +1,20 @@
+The map has 4000 cities
+The map has 20000 roads
+Position of first friend is: Hahnview
+Position of second friend is: Maggioton
+Current node: Hahnview
+Current node: Vivianneside
+Current node: Port Joan
+Current node: West Hazle
+Current node: Lake Aubree
+Current node: Donnellyside
+Current node: North Josiane
+Current node: South Annamaeville
+Current node: Kenmouth
+Current node: Marianland
+Current node: Maggioton
+Number of steps: 11
+Path is: [Maggioton, South Annamaeville, Donnellyside, West Hazle, Port Joan, Vivianneside, Hahnview]
+The friends meet in West Hazle after 407
+Time taken by A* function is: 1 ms
+Time taken by whole program is: 1471 ms
